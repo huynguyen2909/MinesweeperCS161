@@ -1,2 +1,1 @@
-# MinesweeperCS161
-đồ án cuối kỳ 1 2021 CS161
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
